@@ -10,8 +10,7 @@ Configure com dados da instancia do seu broker nas linhas do codigo, repetidas a
   * MQTT_PASSWORD = 'sua senha da instancia'
   * MQTT_TIMEOUT = 60
 
-Exige  a bilioteca Paho.mqtt
-Para instalar a biblioteca use:
+Exige  a bilioteca Paho.mqtt. Para instalar a biblioteca use:
 * PIP3 install paho.mqtt
 
-Nao roda em Windows, nem Linux, porque utiliza um programa nativo do RAspberry Pi que é o vcgencmd
+Nao roda em Windows, nem Linux, porque utiliza um programa nativo do Raspberry Pi que é o vcgencmd
